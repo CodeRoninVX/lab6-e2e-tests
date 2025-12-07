@@ -1,0 +1,7 @@
+{
+  "name": "lab6-e2e-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"CI works: no real tests yet\""
+  }
+}
